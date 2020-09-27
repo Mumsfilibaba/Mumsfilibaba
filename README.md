@@ -1,5 +1,5 @@
 ### Hello
-My name is Alexander, and I'm currently studying a Master of Science in Game and Software Engineering **@** Blekinge Tekniska Högskola (**BTH**).
+My name is Alexander, and I'm currently studying a _Master of Science in Game and Software Engineering_ **@** Blekinge Tekniska Högskola (**BTH**).
 
 In my spare time I like to work-out, do some more programming and occasionally play some games.
 
