@@ -18,4 +18,5 @@ I also like to know how things work, mainly C++, which is why I have written bot
 **Other interesting projects:**
 * [Lambda Engine](https://github.com/Mumsfilibaba/LambdaEngine) is a game engine built by me and a couple of friends, we later used this in a [school project](https://github.com/IbexOmega/CrazyCanvas).
 * [3D programming project](https://github.com/Mumsfilibaba/3D-Programming-Project) is a project for a 3D programming course @ **BTH**
+* [3D Programming III project](https://github.com/TheoBerlin/VulkanBoys) is a project for a 3D programming III course @ **BTH**
 * [Game-engine architecture course](https://github.com/Mumsfilibaba/GameEngineArchitectureCourse) is a project for another course @ **BTH** I did with some friends were we implemented a couple of allocators and an archiver.
