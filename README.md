@@ -1,9 +1,10 @@
 ### Hello
-My name is Alexander, and I'm currently studying a _Master of Science in Game and Software Engineering_ **@** Blekinge Tekniska Högskola (**BTH**).
+My name is Alexander, and I'm currently studying for a Master of Science in Game and Software Engineering @ Blekinge Tekniska Högskola (BTH).
 
-In my spare time I like to work-out, do some more programming and occasionally play some games.
+I like to work-out in my spare time, work on several hobby programming projects, and occasionally play some games.
 
-I like to explore the different graphics APIs out there (DirectX, Vulkan, and OpenGL). Therefore, I have created several projects to abstract the APIs to make it easier to do graphics programming. I am also very interested in graphics programming and implement different rendering techniques, this is were my main focus is. Some rendering techniques I have played around with is:
+I like to explore the different graphics APIs out there (DirectX, Vulkan, and OpenGL). Therefore, I have created several projects to abstract the graphics APIs to make it easier to do graphics programming, which is where my main focus is. 
+I love learning and read about new rendering techniques and try to implement them. Some rendering techniques I have played around with is:
 * Physically Based Rendering with Image Based Lightning
 * FXAA
 * Shadow Mapping ("Normal" and Variance Shadow Mapping)
