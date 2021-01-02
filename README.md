@@ -8,6 +8,7 @@ I love learning and read about new rendering techniques and try to implement the
 * Physically Based Rendering with Image-Based Lightning
 * FXAA
 * Shadow Mapping ("Normal" and Variance Shadow Mapping)
+* SSAO
 * Parallax Mapping
 * Tessellation
 * RayTracing
@@ -17,9 +18,9 @@ If you are curious, I suggest you check out the following repositories:
 * [__Another hobby engine__](https://github.com/Mumsfilibaba/Lambda) (Not currently in progress): A hobby engine built for Windows and macOS. It has not a significant focus on rendering techniques. Instead, its focus is on abstracting D3D12 and Vulkan into a common API, based a lot on D3D11 and making Vulkan work similarly. The best example is the immediate device context implemented in the Vulkan backend. Other features include a memory allocator for Vulkan device memory and dynamic uniform buffers when mapping memory to the CPU.
 * [__Yet another hobby engine__](https://github.com/Mumsfilibaba/RayEngine) (Not currently in progress): Here, I tried to build an engine with support for D3D11, OpenGL, D3D12, and Vulkan. At the same time, it has support for Linux, Windows, and macOS. Also looked into an Android version.
 
-I also like to know how things work, mainly C++, which is why I have written both my containers and math-library. Mostly as a fun learning experience (Or not, depending on how much you like to read C++ specifications 😅).
+I also like to know how things work, mainly C++, which is why I have written both my containers and math-library, mostly as a fun learning experience.
 
-* [**Custom Containers**](https://github.com/Mumsfilibaba/Custom-Containers)
+* [**Template Library**](https://github.com/Mumsfilibaba/Custom-Containers)
 * [**Math Library**](https://github.com/Mumsfilibaba/Math): Includes multiple vectors- and matrix-types with SSE support.
 
 **Other interesting projects:**
