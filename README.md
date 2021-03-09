@@ -5,18 +5,20 @@ I like to work-out in my spare time, work on several hobby programming projects,
 
 I like to explore the different graphics APIs out there (DirectX, Vulkan, and OpenGL). Therefore, I have created several projects to abstract the graphics APIs to make it easier to do graphics programming, which is where my main focus is. 
 I love learning and read about new rendering techniques and try to implement them. Some rendering techniques I have played around with is:
+* Tiled-Deferred Rendering (Tiled Light-Culling)
 * Physically Based Rendering with Image-Based Lightning
-* FXAA
+* Fast Approximate Anti-Aliasing (FXAA)
+* Temporal Anti-Aliasing (TAA)
 * Shadow Mapping ("Normal" and Variance Shadow Mapping)
-* SSAO
+* Screen-Space Ambient Occlusion (SSAO)
 * Parallax Mapping
 * Tessellation
-* RayTracing
+* Ray Tracing
 
 If you are curious, I suggest you check out the following repositories:
-* [__Current Personal Engine__](https://github.com/Mumsfilibaba/DXR-Project): This is a hobby engine where the focus is on abstracting D3D12. First started as a project for testing DirectX RayTracing (DXR) but has evolved into another hobby engine. Here I have implemented RayTraced Mirror reflections using DXR, but also variance shadow mapping and FXAA.
+* [__Current Personal Engine__](https://github.com/Mumsfilibaba/DXR-Project): This is a hobby engine where the focus is on abstracting D3D12. First started as a project for testing DirectX RayTracing (DXR) but has evolved into another hobby engine. In this engine I experiment with even more graphic techniques. SOme examples
 * [__Another hobby engine__](https://github.com/Mumsfilibaba/Lambda) (Not currently in progress): A hobby engine built for Windows and macOS. It has not a significant focus on rendering techniques. Instead, its focus is on abstracting D3D12 and Vulkan into a common API, based a lot on D3D11 and making Vulkan work similarly. The best example is the immediate device context implemented in the Vulkan backend. Other features include a memory allocator for Vulkan device memory and dynamic uniform buffers when mapping memory to the CPU.
-* [__Yet another hobby engine__](https://github.com/Mumsfilibaba/RayEngine) (Not currently in progress): Here, I tried to build an engine with support for D3D11, OpenGL, D3D12, and Vulkan. At the same time, it has support for Linux, Windows, and macOS. Also looked into an Android version.
+* [__Yet another hobby engine__](https://github.com/Mumsfilibaba/RayEngine) (Not currently in progress): An engine with support for D3D11, OpenGL, D3D12, and Vulkan. At the same time, it has support for Linux, Windows, and macOS. Also looked into an Android version.
 
 I also like to know how things work, mainly C++, which is why I have written both my containers and math-library, mostly as a fun learning experience.
 
