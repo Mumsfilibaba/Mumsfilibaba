@@ -1,6 +1,5 @@
 ### Hello
-My name is Alexander, and I'm currently studying for a *Master of Science in Game and Software Engineering* @ __Blekinge Tekniska Högskola (BTH)__.
-
+My namn is Alexander, and I'm an Rendering Engineer. 
 I like to explore the different graphics APIs out there (DirectX, Vulkan, and OpenGL). Therefore, I have created several projects to abstract the graphics APIs to make it easier to do graphics programming, which is where my main focus is. 
 I love learning and read about new rendering techniques and try to implement them. Some rendering techniques I have played around with is:
 * Tiled-Deferred Rendering (Tiled Light-Culling)
