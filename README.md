@@ -1,5 +1,5 @@
 ### Hello There!
-My name is Alexander, and I am a dedicated and passionate software engineer specializing in graphics and rendering. One of my largest interests is in graphics and rendering programming, which has resulted in various projects over the years. I enjoy both shader programming and more direct lower-level programming in graphics APIs such as DirectX 12 or Vulkan. I have also experimented a bit with Apple's Metal. 
+My name is Alexander, and I am a passionate software engineer specializing in graphics and rendering. One of my largest interests is in graphics and rendering programming, which has resulted in various projects over the years. I enjoy both shader programming and lower-level programming in graphics APIs such as DirectX 12 or Vulkan. I have also experimented a bit with Apple's Metal. 
 
 Here are some projects:
 * [Hobby Engine](https://github.com/Mumsfilibaba/DXR-Project/tree/development): This project is my Hobby Rendering Engine and is used as my playground for testing different rendering and other programming techniques and ideas. Here, I have used the graphics APIs DirectX 12 and Vulkan and built an abstraction layer so that I can easily switch between both. I have also experimented with task systems for easy multithreading and a simple module system for dividing
